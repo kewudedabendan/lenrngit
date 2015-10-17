@@ -1,4 +1,4 @@
 My name is xiaoming ,nice to meet you!
 what's your name?
 How are you?
-Creating a new branch is quick.
+Creating a new branch is quick AND simple.
